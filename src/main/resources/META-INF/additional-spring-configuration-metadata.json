@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "younite.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'younite.app.jwtSecret'"
+  },
+  {
+    "name": "younite.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'younite.app.jwtSecret'"
+  },
+  {
+    "name": "younite.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'younite.app.jwtSecret'"
+  },
+  {
+    "name": "younite.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'younite.app.jwtSecret'"
+  }
+]}
